@@ -18,11 +18,12 @@
         <h3>Heading 3</h3>
         <h4>Heading 4</h4>
         <h5>Heading 5</h5>
-        <h6>Heading 6</h6>
         <h3>Paragraph Heading 3</h3>
         <p>Contact for the website.</p>
         <h3>Second Paragraph Heading 3</h3>
         <p>More contact for the website.</p>
+        <h3>GITHUB Update</h3>
+        <p>Update on GITHUB pulled down to server.</p>
       </div> <!-- end content -->
       <?php include('includes/sidebar.php'); ?>
       <?php include('includes/footer.php'); ?>
