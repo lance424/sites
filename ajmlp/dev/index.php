@@ -20,8 +20,8 @@
         <h5>Heading 5</h5>
         <h3>Paragraph Heading 3</h3>
         <p>Contact for the website.</p>
-        <h3>Second Paragraph Heading 3</h3>
-        <p>More contact for the website.</p>
+        <h3>Another GITHUB Update</h3>
+        <p>Trying to get the GITHUB pull down to the server working.</p>
         <h3>GITHUB Update</h3>
         <p>Update on GITHUB pulled down to server.</p>
       </div> <!-- end content -->
