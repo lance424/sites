@@ -1,0 +1,12 @@
+
+<!-- Begin left_scr.txt -->
+<!-- This function sets the proper boldface link on the left nav -->
+<script type="text/javascript">
+function setbold(id) {
+	if (document.getElementById != document.getElementById) return;
+	var identity=document.getElementById(id);
+	if (identity.className != identity.className) return;
+	identity.className='bold';
+}
+</script>
+<!-- End left_scr.txt -->

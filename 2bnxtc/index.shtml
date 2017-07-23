@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <meta name="description" content="2005 C6 Corvette">
+    <meta name="keywords" content="corvette, Corvette, vette, C6, 2005, chevrolet corvette">
+    <link rel="stylesheet" href="2bnxtc.css" type="text/css">
+    <title>2BNXTC Home - Corvette</title>
+  </head>
+
+  <body>
+    <h1> 2BNXTC - Corvette</h1>
+    <table width="100%" cellpadding="0" cellspacing="10">
+      <tr> 
+        <td valign="top"> 
+          <p>This site was originally dedicated to a 2005 C6 Corvette that was planned to be purchased. Well, things changed and this site is now dedicated to any and all Corvettes.
+          <p>I currently own a 2002 Electron Blue Convertible which I picked up on July 13, 2004. There are some pictures that I'll be loading later.  Teaser picture below.
+          <p>I've found a couple places to hang out on the web and elsewhere. Check out these links for information and events.
+          <ul>
+            <li><b>Forums </b> 
+              <ul>
+                <li><a href="http://www.vetteaction.com" target="_blank">VetteAction.com</a></li>
+                <li><a href="http://www.digitalcorvettes.com/" target="_blank">Digital Corvettes</a></li>
+              </ul>
+            </li>
+            <li><b>Clubs </b> 
+              <ul>
+                <li><a href="http://www.suburbancorvettesofminnesota.com/" target="_blank">Suburban Corvettes of Minnesota</a></li>
+                <li><a href="http://www.classiccorvettesmn.com/" target="_blank">Classic Corvettes MN</a></li>
+              </ul>
+            </li>
+          </ul>
+          <p>This site will be expanded to include a lot more information.  Be sure to check back again for more.
+          <p><img src=2002ebv/windmill.jpg border="0" height="400" width="500">
+        </td>
+      </tr>
+    </table>
+    <font class="footer">Last Updated on <!--#ECHO VAR="LAST_MODIFIED"--></font>
+  </body>
+</html>

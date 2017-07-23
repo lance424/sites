@@ -1,0 +1,14 @@
+
+<!-- Begin nav.txt -->
+    <tr>
+      <td width="25%" valign="top" align="center">
+        <p id="home"><a href="/">Home</a></p>
+        <p id="doeiit"><a href="/doeiit.shtml">DOE In Industrial Testing</a></p>
+        <p id="moredoe"><a href="/moredoe.shtml">Description of Techniques</a></p>
+        <p id="ttest"><a href="/t-test.shtml">T-Test Example</a></p>
+        <p id="reasons"><a href="/reasons.shtml">Reasons to Choose</a></p>
+        <p id="pub"><a href="/publications.shtml">Publications</a></p>
+        <p id="about"><a href="/about.shtml">About Us</a></p>
+        <p id="contact"><a href="/contact.shtml">Contact Us</a></p>
+      </td>
+<!-- End nav.txt -->

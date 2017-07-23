@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /css/
+Disallow: /dev/
+Disallow: /tst/
+Disallow: /auth/
+Disallow: /bkup/
+Disallow: /images/
+Disallow: /img/
+Disallow: /include/
+Disallow: /picture_library/
+Disallow: /plesk-stat/
+Disallow: /test/

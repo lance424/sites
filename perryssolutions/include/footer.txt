@@ -1,0 +1,5 @@
+  <tr height="50">
+    <td colspan="2" valign="bottom">
+      <p class="footer">&copy; 2008 Perry's Solutions, LLC<p>
+    </td>
+  </tr>

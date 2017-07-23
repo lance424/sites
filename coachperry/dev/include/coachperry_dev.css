@@ -1,0 +1,139 @@
+h1 {
+  color:#000000;
+}
+
+h2 {
+  color:#000000;
+  font-variant:small-caps;
+}
+
+a:link,a:visited {
+  color:blue;
+  text-decoration:none;
+}
+
+a:hover,a:active {
+  color:#000000;
+  text-decoration:underline;
+}
+
+a.nav {
+  display:block;
+  color:#ffffff;
+  background-color:#dddddd;
+  width:120px;
+  text-align:center;
+  padding:0px;
+  text-transform:uppercase;
+}
+
+a.nav:hover {
+  background-color:#cccccc;
+}
+
+li.nav {
+  display:inline;
+}
+
+.nav_contact {
+  padding-left:5px;
+}
+
+p {
+  font-size:12pt;
+  color:#000000;
+}
+
+br {
+  color:#CC0000;
+}
+
+table {
+}
+
+tr {
+  color:#000000;
+}
+
+td {
+  text-align:left;
+  vertical-align:top;
+  color:#000000;
+}
+
+body {
+  padding:0px;
+  margin:0px;
+  font-size:100%;
+  background-color:#ffffff;
+}
+
+.header {
+	width:100%;
+	background-color:#ffffff;
+	background-image:url('/dev/images/basketball.jpg');
+	background-repeat:no-repeat;
+	background-position:right;
+      height:100px;
+	vertical-align:middle;
+	color:#FFAA00;
+	text-align:center;
+	font-size:50pt;
+	font-family: Verdana, Sylfaen, sans-serif;
+}
+
+.col1 {
+  position:relative;
+  overflow:hidden;
+  float:left;
+  width:20%;
+  height:100%;
+  background-color:#ffffff;
+  margin-right:5px;
+  margin-left:5px;
+  padding:0px;
+}
+
+.col2 {
+  position:relative;
+  overflow:hidden;
+  width:50%;
+  left:10px;
+  background-color:#ffffff;
+}
+
+ul.social {
+  list-style-type:none;
+  margin:0px;
+  padding:0px;
+  overflow:hidden;
+  border-style:solid;
+  border-width:1px;
+  border-left:none;
+  border-right:none;
+  text-align:center;
+}
+
+li.social {
+  width:120px;
+  padding:0px;
+  display:inline;
+}
+
+.social {
+  display:block;
+  width:100%;
+  background-color:#ffffff;
+}
+
+.footer {
+  font-size:9pt;
+  font-style:italic;
+  color:#000000;
+  left:10px;
+  width:auto;
+  padding-top:15px;
+  padding-left:5px;
+  padding-bottom:15px;
+  background-color:#FFAA00;
+}

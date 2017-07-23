@@ -1,0 +1,70 @@
+body {
+	background-color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #000000;
+	background-image: url(/images/bg.jpg);
+}
+
+a:link {
+	color: #0000FF;
+}
+a:visited {
+	color: #0000FF;
+}
+a:hover {
+	color: #FF0000;
+}
+
+h3 {
+	color: #000000;
+	font-size: 12pt;
+}
+
+h2 {
+	font-size: 14pt;
+	color: #000000;
+}
+
+h1 {
+	font-size: 16pt;
+	color: #000000;
+}
+
+.footer {
+	font-size: 8pt;
+	color: #000000;
+	font-style: italic;
+}
+
+.contact {
+	font-size: 8pt;
+	color: #000000;
+}
+
+.subheader {
+	font-size: 12pt;
+	color: #000000;
+}
+
+.super {
+	vertical-align: super;
+	font-size: 8pt;
+}
+
+.sub {
+	vertical-align: text-bottom;
+	font-size: 8pt;
+}
+.equation {
+	font-family: Courier New, Courier, mono;
+
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.nav {
+	font-size: 10pt;
+}

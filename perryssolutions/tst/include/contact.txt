@@ -1,0 +1,13 @@
+    <tr>
+      <td height="50">
+        <br>
+      </td>
+    </tr>
+    <tr>
+      <td valign="bottom" align="center">
+        <p class="contact"><strong>Contact Us</strong>
+        <br><i>E-mail</i><br><a href="mailto:info@perryssolutions.com">info@perryssolutions.com</a>
+        <br><i>Phone</i><br>651-230-3861
+        <br><i>Mail</i><br>2938 Marine Circle<br>Stillwater, MN 55082</p>
+      </td>
+    </tr>
