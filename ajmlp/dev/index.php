@@ -13,11 +13,10 @@
       <?php include('includes/header.php'); ?>
       <?php include('includes/nav.php'); ?>
       <div id="content">
-        <h1>Heading 1</h1>
-        <h2>Heading 2</h2>
-        <h3>Heading 3</h3>
-        <h4>Heading 4</h4>
-        <h5>Heading 5</h5>
+        <h1>AJMLP</h1>
+        <h2>GITHUB</h2>
+        <h2>CMS</h2>
+        <h2>Corvette</h2>
         <h3>Paragraph Heading 3</h3>
         <p>Contact for the website.</p>
         <h3>Another GITHUB Update</h3>
