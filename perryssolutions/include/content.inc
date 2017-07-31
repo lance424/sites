@@ -41,7 +41,7 @@ elseif ( $page == 'msa'  ) {
     include($php_root_dir . 'templates/news.tpl');
 }
 elseif ( $page == 'reasons'  ) {
-    $upd_time=filemtime($php_root_dir . 'templates/reaons.tpl');
+    $upd_time=filemtime($php_root_dir . 'templates/reasons.tpl');
     include($php_root_dir . 'templates/reasons.tpl');
     include($php_root_dir . 'templates/news.tpl');
 }
@@ -65,11 +65,11 @@ elseif ( $page == 'perry'  ) {
     include($php_root_dir . 'templates/perry.tpl');
     include($php_root_dir . 'templates/news.tpl');
 }
-elseif ( $page == 'carol'  ) {
-    $upd_time=filemtime($php_root_dir . 'templates/carol.tpl');
-    include($php_root_dir . 'templates/carol.tpl');
-    include($php_root_dir . 'templates/news.tpl');
-}
+#elseif ( $page == 'carol'  ) {
+#    $upd_time=filemtime($php_root_dir . 'templates/carol.tpl');
+#    include($php_root_dir . 'templates/carol.tpl');
+#    include($php_root_dir . 'templates/news.tpl');
+#}
 elseif ( $page == 'contact'  ) {
     $upd_time=filemtime($php_root_dir . 'templates/contact.tpl');
     include($php_root_dir . 'templates/contact.tpl');
