@@ -20,8 +20,6 @@
         <h3>Paragraph Heading 3</h3>
         <h2>Corvette</h2>
         <h3>Paragraph Heading 3</h3>
-        <h2>Shar Pei</h2>
-        <h3>Paragraph Heading 3</h3>
         <p>Contact for the website.</p>
         <h3>Another GITHUB Update</h3>
         <p>Trying to get the GITHUB pull down to the server working.</p>
