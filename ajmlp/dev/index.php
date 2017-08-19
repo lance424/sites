@@ -21,10 +21,6 @@
         <h2>Corvette</h2>
         <h3>Paragraph Heading 3</h3>
         <p>Contact for the website.</p>
-        <h3>Another GITHUB Update</h3>
-        <p>Trying to get the GITHUB pull down to the server working.</p>
-        <h3>GITHUB Update</h3>
-        <p>Update on GITHUB pulled down to server.</p>
       </div> <!-- end content -->
       <?php include('includes/sidebar.php'); ?>
       <?php include('includes/footer.php'); ?>
