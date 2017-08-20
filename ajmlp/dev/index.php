@@ -21,6 +21,10 @@
         <h3>Content Management System</h3>
         <h2>Corvette</h2>
         <h3>Everything Corvette</h3>
+        <h3>C5 2002 Convertible</h3>
+        <h2>Woodworking</h2>
+        <h3>Tools</h3>
+        <h3>Projects</h3>
       </div> <!-- end content -->
       <?php include('includes/sidebar.php'); ?>
       <?php include('includes/footer.php'); ?>
