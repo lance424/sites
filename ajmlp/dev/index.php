@@ -14,13 +14,13 @@
       <?php include('includes/nav.php'); ?>
       <div id="content">
         <h1>AJMLP</h1>
-        <h3>Paragraph Heading 3</h3>
+        <h3>Consulting</h3>
         <h2>GITHUB</h2>
-        <h3>Paragraph Heading 3</h3>
+        <h3>Version Control</h3>
         <h2>CMS</h2>
-        <h3>Paragraph Heading 3</h3>
+        <h3>Content Management System</h3>
         <h2>Corvette</h2>
-        <h3>Paragraph Heading 3</h3>
+        <h3>Everything Corvette</h3>
       </div> <!-- end content -->
       <?php include('includes/sidebar.php'); ?>
       <?php include('includes/footer.php'); ?>
