@@ -1,8 +1,8 @@
       <div id="sidebar">
         <h3>Navigation</h3>
         <li><a href="http://www.ajmlp.com/dev">Home</a></li>
-        <a href="http://www.ajmlp.com/dev/corvette.php">Corvette</a>
-        <a href="http://www.ajmlp.com/dev/woodworking.php">Woodworking</a>
+        <li><a href="http://www.ajmlp.com/dev/corvette.php">Corvette</a></li>
+        <li><a href="http://www.ajmlp.com/dev/woodworking.php">Woodworking</a></li>
         <li><a href="#">About</a></li>
         <li><a href="#">Contact</a></li>
         <h3>Box Two</h3>
