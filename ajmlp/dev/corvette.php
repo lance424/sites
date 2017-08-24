@@ -16,6 +16,7 @@
         <h1>Corvette</h1>
         <h2>Everything Corvette</h2>
         <h2>C5 2002 Convertible</h2>
+        <h3><a href="http://www.2bnxtc.com/">My First Corvette</a></h3>
         <h2>Restoration</h2>
       </div> <!-- end content -->
       <?php include('includes/sidebar.php'); ?>
