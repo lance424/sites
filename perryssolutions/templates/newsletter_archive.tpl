@@ -13,6 +13,25 @@
 
         <p>
 
+
+
+<?php
+$pdflink_file = 'publications/Newsletter 5-17 - Perrys Solutions.pdf';
+$pdflink_desc = 'May 2017';
+include($php_root_dir . 'templates/pdflink.tpl');
+?>
+
+        <p>NON-NORMAL DATA 
+        <br>Many practical situations experience what is called "non-normal" data. Practitioners dislike this because the tools to handle it are more complex and less understood by others. There are real and false causes of non-normal data, so we need to be confident in our determination. Non-normal tools tend to be less powerful than the standard tools, so care needs to be used to select the most powerful tool.
+
+        <p>VALUABLE TRAINING COMPONENTS
+        <br>The next core area is "Remember." There are 3 schools of thought for DOE - Western Method, Taguchi and Shainin. Each has a strength for application with Box's tools being the most widely applicable. Remember the <a href="http://bit.ly/14HgKSz"target="_blank">definition of DOE</a>: A tool to assist in the process of understanding a system.  And finally, DOE can generate predictive innovations. DOE is often used to resolve conflicts, but early use can help avoid major schedule delays.
+
+        <p>NO CATAPULT
+        <br>I recently wrote a white paper regarding why the catapult is a poor tool for DOE training. Unfortunately, it is a common tool. If you want to learn about DOE and use it, avoid the catapult. If you want to find out why it is so bad, <a href="http://bit.ly/2pmjnIz"target="_blank">read this paper.</a>
+
+        <p>
+
 <?php
 $pdflink_file = 'publications/Newsletter 2-17 - Perrys Solutions.pdf';
 $pdflink_desc = 'February 2017';
@@ -174,7 +193,7 @@ include($php_root_dir . 'templates/pdflink.tpl');
         <br>Are we an easy company to do business with? And if not, what could we do to make it better for you. I would love to hear from you.
 
         <p>BEST OF 2014 - VIDEO ON YOUTUBE 
-        <br>Our most popular video in 2014 was "<a href="http://bit.ly/1bciKlr"target="_blank">"Robust Design"</a>." Companies desire to be robust, and apparently on a world-wide basis. Few seem to have tools to create it. Call us to help you make it a reality.
+        <br>Our most popular video in 2014 was "<a href="http://bit.ly/1bciKlr"target="_blank">Robust Design</a>." Companies desire to be robust, and apparently on a world-wide basis. Few seem to have tools to create it. Call us to help you make it a reality.
 
 
         <p>

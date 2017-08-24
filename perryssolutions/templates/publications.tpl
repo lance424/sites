@@ -17,19 +17,21 @@
 
 
 <?php
-$pdflink_file = 'publications/Newsletter 5-17 - Perrys Solutions.pdf';
-$pdflink_desc = 'May 2017';
+$pdflink_file = 'publications/Newsletter 8-17 - Perrys Solutions.pdf';
+$pdflink_desc = 'August 2017';
 include($php_root_dir . 'templates/pdflink.tpl');
 ?>
 
-        <p>NON-NORMAL DATA
-        <br>Many practical situations experience what is called "non-normal" data. Practitioners dislike this because the tools to handle it are more complex and less understood by others. There are real and false causes of non-normal data, so we need to be confident in our determination. Non-normal tools tend to be less powerful than the standard tools, so care needs to be used to select the most powerful tool.
+        <p>ALIGNING DOE WITH FDA TALK AT MDM
+        <br>I was asked to speak at MD&M about how to Align Design of Experiments (DOE) with FDA expectations. The talk will take place at the Minneapolis Convention Center on November 9. Smart validation allows for fast approval. DOE is essential for creating a design and process worthy of approval and market success.
 
-        <p>VALUABLE TRAINING COMPONENTS
-        <br>The next core area is "Remember." There are 3 schools of thought for DOE - Western Method, Taguchi and Shainin. Each has a strength for application with Box's tools being the most widely applicable. Remember the <a href="http://bit.ly/14HgKSz"target="_blank">definition of DOE</a>: A tool to assist in the process of understanding a system.  And finally, DOE can generate predictive innovations. DOE is often used to resolve conflicts, but early use can help avoid major schedule delays.
+        <p>VALUABLE TRAINING COMPONENTS - APPLY
+        <br>The next core area to discuss with a training program is Apply. Doing text book exercises with clean data does not teach one how to apply it. How can we bridge the gap to actually making our jobs easier? To making our products and processes better? We cover how to set up a DOE matrix for execution. We also address the skills needed to solve root cause analysis issues.
 
-        <p>NO CATAPULT
-        <br>I recently wrote a white paper regarding why the catapult is a poor tool for DOE training. Unfortunately, it is a common tool. If you want to learn about DOE and use it, avoid the catapult. If you want to find out why it is so bad, <a href="http://bit.ly/2pmjnIz"target="_blank">read this paper.</a>
+
+
+        <p>ROBUST DESIGN PODCAST
+        <br>The engineering knowledge source, Accendo Reliability, asked me to do a podcast regarding my insights on Robust Design. There is a huge benefit with only traditional DOE tools to achieve some Robust objectives. Going even further and using Monte Carlo analysis can provide even further performance improvements and cost reductions. <a href="http://bit.ly/2wn6nWq"target="_blank">Robust Design</a> is achievable.
 
 
         <p><a href="<?php echo ${env} ?>newsletter_archive.php">Newsletter archive</a>
