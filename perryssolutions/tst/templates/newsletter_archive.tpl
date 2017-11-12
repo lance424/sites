@@ -12,7 +12,24 @@
 
 
         <p>
+<?php
+$pdflink_file = 'publications/Newsletter 8-17 - Perrys Solutions.pdf';
+$pdflink_desc = 'August 2017';
+include($php_root_dir . 'templates/pdflink.tpl');
+?>
 
+        <p>ALIGNING DOE WITH FDA TALK AT MDM
+        <br>I was asked to speak at MD&M about how to Align Design of Experiments (DOE) with FDA expectations. The talk will take place at the Minneapolis Convention Center on November 9. Smart validation allows for fast approval. DOE is essential for creating a design and process worthy of approval and market success.
+
+        <p>VALUABLE TRAINING COMPONENTS - APPLY
+        <br>The next core area to discuss with a training program is Apply. Doing text book exercises with clean data does not teach one how to apply it. How can we bridge the gap to actually making our jobs easier? To making our products and processes better? We cover how to set up a DOE matrix for execution. We also address the skills needed to solve root cause analysis issues.
+
+
+
+        <p>ROBUST DESIGN PODCAST
+        <br>The engineering knowledge source, Accendo Reliability, asked me to do a podcast regarding my insights on Robust Design. There is a huge benefit with only traditional DOE tools to achieve some Robust objectives. Going even further and using Monte Carlo analysis can provide even further performance improvements and cost reductions. <a href="http://bit.ly/2wsJlxO"target="_blank">Robust Design</a> is achievable.
+
+        <p>
 
 
 <?php
