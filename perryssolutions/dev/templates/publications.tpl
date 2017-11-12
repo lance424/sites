@@ -17,21 +17,19 @@
 
 
 <?php
-$pdflink_file = 'publications/Newsletter 8-17 - Perrys Solutions.pdf';
-$pdflink_desc = 'August 2017';
+$pdflink_file = 'publications/Newsletter 11-17 - Perrys Solutions.pdf';
+$pdflink_desc = 'November 2017';
 include($php_root_dir . 'templates/pdflink.tpl');
 ?>
 
-        <p>ALIGNING DOE WITH FDA TALK AT MDM
-        <br>I was asked to speak at MD&M about how to Align Design of Experiments (DOE) with FDA expectations. The talk will take place at the Minneapolis Convention Center on November 9. Smart validation allows for fast approval. DOE is essential for creating a design and process worthy of approval and market success.
+        <p>DESIGN OF EXPERIMENTS WEBINAR
+        <br>Design Of Experiments (DOE) is all about the set up and overall testing strategy. This link provides a one hour webinar with these <a href="http://bit.ly/2wn6nWq"target="_blank">basics of DOE.</a> If you want more so you can run basic experiments yourself, you can sign up for the self-paced course, which will be available soon. It does not require special software beyond Excel to start simple tests, with limited analysis. Contact us for more information or for help on your more complicated and important projects. Over 30 years of experience and hundreds of projects in both manufacturing and design applications support this content.
 
-        <p>VALUABLE TRAINING COMPONENTS - APPLY
-        <br>The next core area to discuss with a training program is Apply. Doing text book exercises with clean data does not teach one how to apply it. How can we bridge the gap to actually making our jobs easier? To making our products and processes better? We cover how to set up a DOE matrix for execution. We also address the skills needed to solve root cause analysis issues.
+        <p>VALUABLE TRAINING COMPONENTS - ANALYZE
+        <br>The next core area to discuss with a training program is Analyze. The ability to examine test data using key diagnostics and create an unbiased decision is critical for engineering performance. It is easy to do but overlooked too often. <a href="http://bit.ly/126UFJt"target="_blank">Smart and complete analysis</a> provides key learning points beyond the obvious "model building" desired from Design of Experiments. We provide an analysis Cheat Sheet with our DOE training. Our other classes provide similar tools to assist with retaining key points.
 
-
-
-        <p>ROBUST DESIGN PODCAST
-        <br>The engineering knowledge source, Accendo Reliability, asked me to do a podcast regarding my insights on Robust Design. There is a huge benefit with only traditional DOE tools to achieve some Robust objectives. Going even further and using Monte Carlo analysis can provide even further performance improvements and cost reductions. <a href="http://bit.ly/2wn6nWq"target="_blank">Robust Design</a> is achievable.
+        <p>AVOIDING CONSEQUENCES OF EXPERIMENTS GONE WRONG
+        <br>In the fall I created an article about experimentation for MD+DI magazine. This provides the basics of <a href="http://bit.ly/2A5VdEB"target="_blank">creating a successful experiment</a> with examples. The MDM talk on November 9 expanded on these thoughts to connect with specific FDA expectations. It is good solid engineering and new product development habits for any industry. Call us to avoid bad experiments, reduce scrap and finish projects on time.
 
 
         <p><a href="<?php echo ${env} ?>newsletter_archive.php">Newsletter archive</a>
@@ -63,6 +61,14 @@ $pdflink_desc = 'DOE In Industrial Testing';
 include($php_root_dir . 'templates/pdflink.tpl');
 ?>
  (2009 White Paper)
+
+        <p>
+<?php
+$pdflink_file = 'publications/Product Understanding - MN Reliability Consortium 2017 - Perrys Solutions.pdf';
+$pdflink_desc = 'Product Understanding';
+include($php_root_dir . 'templates/pdflink.tpl');
+?>
+ (2017 Reliability Consortium)
 
         <p>
 
@@ -319,6 +325,9 @@ include($php_root_dir . 'templates/pdflink.tpl');
         <p><a href="http://archive.plasticsbusinessmag.com/stories/article.asp?ID=127#.V1gCg-SjBqh"target="_blank">DOE Brings Benefits to Process Design</a> (Plastics Business, Fall 2012)
         <p>
 
+        <p><a href="https://www.protolabs.com/resources/blog/service-bureau-or-broker-production-supplier-or-in-house-shop-selecting-a-manufacturing-source/"target="_blank">Manufacturer Source Selection Interview</a> (Protolabs Blog, 2017)
+        <p>
+
         <p><a href="http://www.bluetoad.com/publication/?i=135315&p=42"target="_blank">Trend Analysis to Acquire Knowledge and Increased Volumes</a> (Plastics Decorating, Fall 2012)
 
 
@@ -329,9 +338,14 @@ include($php_root_dir . 'templates/pdflink.tpl');
         <p><a href="http://www.plasticsdecorating.com/stories/050815/value-qfd-product-development.shtml#.VZmTofmJXCY"target="_blank">The Value of Quality Function Deployment in New Product Development</a> (Plastics Decorating, Spring 2015)
         <p>
 
-        <p><a href="http://www.bluetoad.com/publication/?m=9274&l=1#{%22issue_id%22:382075,%22page%22:26}"target="_blank">Learning Approach to Equipment Set-up</a> (Plastics Decorating, Winter 2017)
+
+
+        <p><a href="http://www.bluetoad.com/publication/?m=9274&l=1#{%22issue_id%22:382075,%22page%22:26}"target="_blank">Learning Approach to Equipment Set-up</a> (Plastics Decorating, Winter 2016)
 
         <p><a href="http://rube.asq.org/quality-progress/2015/08/problem-solving/creative-by-design.html?ID=127"target="_blank">Creative by Design</a> (American Society for Quality, August 2015)
+        <p>
+
+        <p><a href="http://www.mddionline.com/avoid-consequences-experiment-gone-wrong/"target="_blank">Avoid Consequences of an Experiment Gone Wrong</a> (MD+DI Magazine Blog, August 2017)
         <p>
 
 
@@ -342,27 +356,32 @@ include($php_root_dir . 'templates/pdflink.tpl');
 
         <iframe style="width:100%; max-width: 650px; height: auto; min-height: 200px;" src="http://accendoreliability.com/podcast/dtk/dtk-perry-parendo-consultant/?embed=true" frameborder="0"></iframe>
 
-                <p>11/14/2011, 4-5 pm, AM 1570, "How to Take Your Business to the Next Level"
+                <p>November 14, 2011, 4-5 pm, AM 1570, "How to Take Your Business to the Next Level"
 
 <?php
 $ytplayer_video = 'http://www.youtube.com/embed/Trgmvgisil8';
 include($php_root_dir . 'templates/ytplayer.tpl');
 ?>
 
+                <p>August 2017 <a href="https://accendoreliability.com/podcast/arw/practical-application-doe/#more-122000"target="_blank">Accendo Webinar</a> "Practical Application of Design Of Experiments - Full Slides and Webinar window available for free members on the Accendo website"
 
-                <p>5/19/2010, 4-5 pm, AM 1570, "Good Networking"
+        <iframe style="width:100%; max-width: 650px; height: auto; min-height: 200px;" src="https://accendoreliability.com/podcast/arw/practical-application-doe/?embed=true" frameborder="0"></iframe>
+
+
+                <p>December 16, 2009, 5-6 pm, AM 1570, "Coaching in Business Problem Solving"<p>
+
+<?php
+$ytplayer_video = 'http://www.youtube.com/embed/D7YzTVC8GDU';
+include($php_root_dir . 'templates/ytplayer.tpl');
+?>
+
+                <p>May 19, 2010, 4-5 pm, AM 1570, "Good Networking"
 
 <?php
 $ytplayer_video = 'http://www.youtube.com/embed/6jRMrg8e9Cw';
 include($php_root_dir . 'templates/ytplayer.tpl');
 ?>
 
-                <p>12/16/2009, 5-6 pm, AM 1570, "Coaching in Business Problem Solving"<p>
-
-<?php
-$ytplayer_video = 'http://www.youtube.com/embed/D7YzTVC8GDU';
-include($php_root_dir . 'templates/ytplayer.tpl');
-?>
 
               <h2>Videos and video briefs</h2>
 
@@ -370,10 +389,12 @@ include($php_root_dir . 'templates/ytplayer.tpl');
 
         <p>
 <?php
-$pdflink_file = 'publications/Project Execution-Perrys Solutions.pdf';
-$pdflink_desc = 'Project Execution';
+$pdflink_file = 'publications/Manufacturing Projects-Perrys Solutions.pdf';
+$pdflink_desc = 'Manufacturing Projects';
 include($php_root_dir . 'templates/pdflink.tpl');
-?> Are the projects executed valuable? Here are case studies at various phases of the process.
+?> How do we approach a manufacturing project - to address it permanently yet with limited scrap and downtime.
+
+
 
         <p>
 <?php
@@ -389,7 +410,12 @@ $pdflink_desc = 'Overcoming Development Challenges';
 include($php_root_dir . 'templates/pdflink.tpl');
 ?> When a project experiences a challenge, what do you do? What should you do? We explore this topic - a key to successful New Product Development.
 
-
+        <p>
+<?php
+$pdflink_file = 'publications/Project Execution-Perrys Solutions.pdf';
+$pdflink_desc = 'Project Execution';
+include($php_root_dir . 'templates/pdflink.tpl');
+?> Are the projects executed valuable? Here are case studies at various phases of the process.
 
         <p>
 <?php
