@@ -1,14 +1,14 @@
       <td rowspan="3" valign="top">
-        <h1>Reasons companies invest in Perry's Solutions, Inc.</h1>
+        <h1>Reasons companies invest in Perry's Solutions, LLC</h1>
         <ul>
-         <li>Offers a blended approach to problem solving - DOE, engineering and project management</li>
-         <li>Provides an outside, applied view by someone who knows DOE and design tools inside and out (compliments your existing process)</li>
-
-         <li>Supplies affordable solutions for small to large companies who lack DOE expertise</li>
-         <li>Provides local expert committed to being available to help projects succeed</li>
          <li>Delivers wins with DOE - cost savings and avoidance, process capability, intellectual property identification, resolve long-term problems and improve quality</li>
-         <li>Affiliations with applied and practical organizations such as St. Thomas, Anoka Ramsey and American Society for Quality.</li>
-         <li>Presents an experienced, flexible trainer/ consultant who has expertise with a variety of software packages and approaches</li>
+         <li>Offers a blended approach to problem solving - DOE, engineering and project management</li>
+
+         <li>Provides local expert committed to being available to help projects succeed</li>
+
+         <li>An experienced, flexible trainer/ consultant who has expertise with a variety of software packages and approaches</li>
+         <li>Provides an outside, applied view by someone who knows DOE and design tools inside and out, to compliment your existing process</li>
+         <li>Supplies affordable solutions for small to large companies who lack DOE expertise</li>
         </ul>
 
         <h2>Client feedback - Testimonials</h2>
