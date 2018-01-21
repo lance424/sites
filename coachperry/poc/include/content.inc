@@ -49,6 +49,11 @@ elseif ( $page == 'drills'  ) {
     include($php_root_dir . 'templates/drills.tpl');
 #    include($php_root_dir . 'templates/news.tpl');
 }
+elseif ( $page == 'analytics'  ) {
+    $upd_time=filemtime($php_root_dir . 'templates/analytics.tpl');
+    include($php_root_dir . 'templates/analytics.tpl');
+#    include($php_root_dir . 'templates/news.tpl');
+}
 elseif ( $page == 'bio'  ) {
     $upd_time=filemtime($php_root_dir . 'templates/bio.tpl');
     include($php_root_dir . 'templates/bio.tpl');
