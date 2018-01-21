@@ -35,6 +35,16 @@ include($php_root_dir . 'templates/pdflink.tpl');
         <p><a href="<?php echo ${env} ?>newsletter_archive.php">Newsletter archive</a>
 
         <h2>Projects</h2>
+        <p>
+<?php
+$pdflink_file = 'publications/Aligning Design Of Experiments - MDM 2017 - Perrys Solutions.pdf';
+$pdflink_desc = 'Aligning DOE with FDA Expectations';
+include($php_root_dir . 'templates/pdflink.tpl');
+?>
+ (2017 Medical Design and Manufacturing Conference)
+
+        <p>
+
 <?php
 $pdflink_file = 'publications/Design DOE Case Study - Cooling - Perrys Solutions.pdf';
 $pdflink_desc = 'Design DOE Case Study - cooling';
@@ -223,6 +233,15 @@ include($php_root_dir . 'templates/pdflink.tpl');
 
 
         <h2>Training</h2>
+<?php
+$pdflink_file = 'publications/Experimental Design in Systematic Innovation - Perrys Solutions.pdf';
+$pdflink_desc = 'Experimental Design in Systematic Innovation';
+include($php_root_dir . 'templates/pdflink.tpl');
+?>
+(2017 Product Camp)
+
+        <p>
+
 <?php
 $pdflink_file = 'publications/DOE Training Case Study - Perrys Solutions.pdf';
 $pdflink_desc = 'Training Case Study - DOE';
