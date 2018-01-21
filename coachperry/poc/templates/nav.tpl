@@ -22,7 +22,17 @@
           </ul>
         </li>
         <li class="nav"><span id="drills"><a class="nav" href="<?php echo $env ?>drills.php">Drills</a></span></li>
-        <li class="nav"><span id="analytics"><a class="nav" href="<?php echo $env ?>analytics.php">Analytics</a></span></li>
+        <li class="nav"><span id="analytics"><a class="nav" href="<?php echo $env ?>analytics.php">Analytics</a></span>
+          <ul class="nav_s">
+            <li class="nav"><span id="background"><a class="nav" href="<?php echo $env ?>background.php">Background</a></span></li>
+          </ul>
+          <ul class="nav_s">
+            <li class="nav"><span id="presentcondition"><a class="nav" href="<?php echo $env ?>presentcondition.php">Present Condition</a></span></li>
+          </ul>
+          <ul class="nav_s">
+            <li class="nav"><span id="currentwork"><a class="nav" href="<?php echo $env ?>currentwork.php">Current Work</a></span></li>
+          </ul>
+        </li>
         <li class="nav"><span id="bio"><a class="nav" href="<?php echo $env ?>bio.php">Bio</a></span></li>
         <li class="nav"><span id="schedules"><a class="nav" href="<?php echo $env ?>schedules.php">Schedules</a></span></li>
       </ul>
