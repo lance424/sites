@@ -2,7 +2,7 @@
       <h1>Coaches</h1>
 
 
-        <p>Coaches</p>
+        <p>This page has a series of links for topics that Coaches may find useful.</p>
 
         <p><a href="http://www.xlathlete.com/"target="_blank">Cal Dietz</a> (Training)
         <p>
