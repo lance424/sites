@@ -54,6 +54,21 @@ elseif ( $page == 'analytics'  ) {
     include($php_root_dir . 'templates/analytics.tpl');
 #    include($php_root_dir . 'templates/news.tpl');
 }
+elseif ( $page == 'background'  ) {
+    $upd_time=filemtime($php_root_dir . 'templates/background.tpl');
+    include($php_root_dir . 'templates/background.tpl');
+#    include($php_root_dir . 'templates/news.tpl');
+}
+elseif ( $page == 'presentcondition'  ) {
+    $upd_time=filemtime($php_root_dir . 'templates/presentcondition.tpl');
+    include($php_root_dir . 'templates/presentcondition.tpl');
+#    include($php_root_dir . 'templates/news.tpl');
+}
+elseif ( $page == 'currentwork'  ) {
+    $upd_time=filemtime($php_root_dir . 'templates/currentwork.tpl');
+    include($php_root_dir . 'templates/currentwork.tpl');
+#    include($php_root_dir . 'templates/news.tpl');
+}
 elseif ( $page == 'bio'  ) {
     $upd_time=filemtime($php_root_dir . 'templates/bio.tpl');
     include($php_root_dir . 'templates/bio.tpl');

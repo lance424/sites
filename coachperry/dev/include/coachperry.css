@@ -21,8 +21,8 @@ a.nav {
   display:block;
   color:#000000;
   background-color:#ffffff;
-  width: 90px;
-  text-align: left;
+  width: 145px;
+  text-align: center;
   text-transform:capitalize;
 }
 
@@ -35,7 +35,7 @@ ul.nav_m {
   list-style-type: none;
   overflow: hidden;
   width: 100%;
-  text-indent: 10px;
+  text-indent: 0px;
   padding-top: 0px;
   padding-right: 0px;
   padding-bottom: 0px;
@@ -44,8 +44,7 @@ ul.nav_m {
 
 ul.nav_s {
   list-style-type: none;
-  overflow: hidden;
-  text-indent: 25px;
+  text-indent: 0px;
   width: 100%;
   padding-top: 0px;
   padding-right: 0px;
@@ -57,12 +56,16 @@ li.nav {
   float: left;
 }
 
+li.nav_s {
+  float: left;
+}
+
 .navigation {
   margin-top: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
   margin-left: 0px;
-  width: 60%;
+  width: 69%;
   text-align: left;
   background-color: #000000;
 }
@@ -72,7 +75,7 @@ li.nav {
   margin-right: 0px;
   margin-bottom: 0px;
   margin-left: 0px;
-  width: 60%;
+  width: 69%;
   text-align: right;
   background-color: #000000;
 }
@@ -86,7 +89,7 @@ li.nav {
   padding-right: 0px;
   padding-bottom: 0px;
   padding-left: 0px;
-  width: 60%;
+  width: 69%;
   text-align: bottom;
   background-color: #000000;
   color: #ffffff;
@@ -138,7 +141,7 @@ body {
   margin-bottom: 0px;
   margin-left: 0px;
   font-size:100%;
-  background-image:url('/dev/images/basketball-hoop.jpg');
+  background-image:url('/poc/images/basketball-hoop.jpg');
   background-repeat: no-repeat;
   background-position: right top;
   background-attachment: fixed;
@@ -160,7 +163,7 @@ body {
   position:relative;
   overflow:hidden;
   float:left;
-  width:60%;
+  width:69%;
   height:100%;
   background-color:#000000;
 }
@@ -206,7 +209,7 @@ li.social {
   font-size:9pt;
   font-style:italic;
   color:#ffffff;
-  width: 60%;
+  width: 69%;
   clear: both;
   padding-top: 15px;
   padding-right: 0px;
