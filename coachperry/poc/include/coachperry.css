@@ -22,7 +22,7 @@ a.nav {
   color:#000000;
   background-color:#ffffff;
   width: 130px;
-  text-align: left;
+  text-align: center;
   text-transform:capitalize;
 }
 
@@ -53,6 +53,10 @@ ul.nav_s {
 }
 
 li.nav {
+  float: left;
+}
+
+li.nav_s {
   float: left;
 }
 
