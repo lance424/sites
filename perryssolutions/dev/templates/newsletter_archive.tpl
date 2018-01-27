@@ -13,6 +13,22 @@
 
         <p>
 <?php
+$pdflink_file = 'publications/Newsletter 11-17 - Perrys Solutions.pdf';
+$pdflink_desc = 'November 2017';
+include($php_root_dir . 'templates/pdflink.tpl');
+?>
+
+        <p>DESIGN OF EXPERIMENTS WEBINAR
+        <br>Design Of Experiments (DOE) is all about the set up and overall testing strategy. This link provides a one hour webinar with these <a href="http://bit.ly/2wn6nWq"target="_blank">basics of DOE.</a> If you want more so you can run basic experiments yourself, you can sign up for the self-paced course, which will be available soon. It does not require special software beyond Excel to start simple tests, with limited analysis. Contact us for more information or for help on your more complicated and important projects. Over 30 years of experience and hundreds of projects in both manufacturing and design applications support this content.
+
+        <p>VALUABLE TRAINING COMPONENTS - ANALYZE
+        <br>The next core area to discuss with a training program is Analyze. The ability to examine test data using key diagnostics and create an unbiased decision is critical for engineering performance. It is easy to do but overlooked too often. <a href="http://bit.ly/126UFJt"target="_blank">Smart and complete analysis</a> provides key learning points beyond the obvious "model building" desired from Design of Experiments. We provide an analysis Cheat Sheet with our DOE training. Our other classes provide similar tools to assist with retaining key points.
+
+        <p>AVOIDING CONSEQUENCES OF EXPERIMENTS GONE WRONG
+        <br>In the fall I created an article about experimentation for MD+DI magazine. This provides the basics of <a href="http://bit.ly/2A5VdEB"target="_blank">creating a successful experiment</a> with examples. The MDM talk on November 9 expanded on these thoughts to connect with specific FDA expectations. It is good solid engineering and new product development habits for any industry. Call us to avoid bad experiments, reduce scrap and finish projects on time.
+
+<p>
+<?php
 $pdflink_file = 'publications/Newsletter 8-17 - Perrys Solutions.pdf';
 $pdflink_desc = 'August 2017';
 include($php_root_dir . 'templates/pdflink.tpl');

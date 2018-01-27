@@ -17,19 +17,19 @@
 
 
 <?php
-$pdflink_file = 'publications/Newsletter 11-17 - Perrys Solutions.pdf';
-$pdflink_desc = 'November 2017';
+$pdflink_file = 'publications/Newsletter 2-18 - Perrys Solutions.pdf';
+$pdflink_desc = 'February 2018';
 include($php_root_dir . 'templates/pdflink.tpl');
 ?>
 
-        <p>DESIGN OF EXPERIMENTS WEBINAR
-        <br>Design Of Experiments (DOE) is all about the set up and overall testing strategy. This link provides a one hour webinar with these <a href="http://bit.ly/2wn6nWq"target="_blank">basics of DOE.</a> If you want more so you can run basic experiments yourself, you can sign up for the self-paced course, which will be available soon. It does not require special software beyond Excel to start simple tests, with limited analysis. Contact us for more information or for help on your more complicated and important projects. Over 30 years of experience and hundreds of projects in both manufacturing and design applications support this content.
+        <p>EXPERIMENTAL DESIGN IN SYSTEMATIC INNOVATION
+        <br>In November we shared insights about Systematic Innovation at Product Camp. Our view is a broad look including business processes as well as idea generation and development. What gaps exist in this area? We used Systematic Innovation tools to answer this question!  It shows how <a href="http://bit.ly/2Bo7Dad"target="_blank">Experimental Design (Design of Experiments, DOE) addresses critical gaps.</a> Have us help you use DOE to improve your Innovative accomplishments.
 
-        <p>VALUABLE TRAINING COMPONENTS - ANALYZE
-        <br>The next core area to discuss with a training program is Analyze. The ability to examine test data using key diagnostics and create an unbiased decision is critical for engineering performance. It is easy to do but overlooked too often. <a href="http://bit.ly/126UFJt"target="_blank">Smart and complete analysis</a> provides key learning points beyond the obvious "model building" desired from Design of Experiments. We provide an analysis Cheat Sheet with our DOE training. Our other classes provide similar tools to assist with retaining key points.
+        <p>VALUABLE TRAINING COMPONENTS - EVALUATE
+        <br>The next core area is Evaluate. Everything else is pointless unless a person interprets results to gain insights. It is a blended evaluation of the situation. <a href="http://bit.ly/13v1rWG"target="_blank">Alternatives are explored</a> such as optimization and robust design, for better and faster decisions. This what we are all trying to do. While experience helps overall capability, guidelines are provided to assist everyone to be a better decision maker.
 
-        <p>AVOIDING CONSEQUENCES OF EXPERIMENTS GONE WRONG
-        <br>In the fall I created an article about experimentation for MD+DI magazine. This provides the basics of <a href="http://bit.ly/2A5VdEB"target="_blank">creating a successful experiment</a> with examples. The MDM talk on November 9 expanded on these thoughts to connect with specific FDA expectations. It is good solid engineering and new product development habits for any industry. Call us to avoid bad experiments, reduce scrap and finish projects on time.
+        <p>FAILURE MODES AND EFFECTS ANALYSIS
+        <br>Failure Modes and Effects Analysis (FMEA) has become a popular tool in a wide variety of industries. The objective is to find priorities and assign appropriate resources. It is important to recognize that we apply FMEA to a broad range of application areas. It can be generated for design concepts, for detailed designs and for manufacturing processes. It should also <a href="http://bit.ly/2y0F6XS"target="_blank">include impacts</a> on business requirements in addition to the customer/ user requirements. Avoid completing an FMEA just to meet a company requirement. Do it to help your project be successful. We can show you how.
 
 
         <p><a href="<?php echo ${env} ?>newsletter_archive.php">Newsletter archive</a>
