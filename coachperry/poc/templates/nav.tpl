@@ -11,7 +11,11 @@
         <li class="nav"><span id="links"><a class="nav" href="<?php echo $env ?>links.php">Links</a></span>
           <ul class="nav_s">
             <li class="nav_s"><span id="players"><a class="nav" href="<?php echo $env ?>players.php">Players</a></span></li>
+          </ul>
+          <ul class="nav_s">
             <li class="nav_s"><span id="coaches"><a class="nav" href="<?php echo $env ?>coaches.php">Coaches</a></span></li>
+          </ul>
+          <ul class="nav_s">
             <li class="nav_s"><span id="parents"><a class="nav" href="<?php echo $env ?>parents.php">Parents</a></span></li>
           </ul>
         </li>
