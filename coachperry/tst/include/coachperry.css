@@ -44,8 +44,9 @@ ul.nav_m {
 
 ul.nav_s {
   list-style-type: none;
-  text-indent: 0px;
+  overflow: hidden;
   width: 100%;
+  text-indent: 0px;
   padding-top: 0px;
   padding-right: 0px;
   padding-bottom: 0px;
