@@ -5,6 +5,8 @@
         <li class="nav"><span id="philosophy"><a class="nav" href="<?php echo $env ?>philosophy.php">Philosophy</a></span>
           <ul class="nav_s">
             <li class="nav_s"><span id="offense"><a class="nav" href="<?php echo $env ?>offense.php">Offense</a></span></li>
+          </ul>
+          <ul class="nav_s">
             <li class="nav_s"><span id="defense"><a class="nav" href="<?php echo $env ?>defense.php">Defense</a></span></li>
           </ul>
         </li>
@@ -23,7 +25,11 @@
         <li class="nav"><span id="analytics"><a class="nav" href="<?php echo $env ?>analytics.php">Analytics</a></span>
           <ul class="nav_s">
             <li class="nav_s"><span id="background"><a class="nav" href="<?php echo $env ?>background.php">Background</a></span></li>
+          </ul>
+          <ul class="nav_s">
             <li class="nav_s"><span id="presentcondition"><a class="nav" href="<?php echo $env ?>presentcondition.php">Present Condition</a></span></li>
+          </ul>
+          <ul class="nav_s">
             <li class="nav_s"><span id="currentwork"><a class="nav" href="<?php echo $env ?>currentwork.php">Current Work</a></span></li>
           </ul>
         </li>
