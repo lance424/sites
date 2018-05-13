@@ -17,20 +17,19 @@
 
 
 <?php
-$pdflink_file = 'publications/Newsletter 2-18 - Perrys Solutions.pdf';
-$pdflink_desc = 'February 2018';
+$pdflink_file = 'publications/Newsletter 5-18 - Perrys Solutions.pdf';
+$pdflink_desc = 'May 2018';
 include($php_root_dir . 'templates/pdflink.tpl');
 ?>
 
-        <p>EXPERIMENTAL DESIGN IN SYSTEMATIC INNOVATION
-        <br>In November we shared insights about Systematic Innovation at Product Camp. Our view is a broad look including business processes as well as idea generation and development. What gaps exist in this area? We used Systematic Innovation tools to answer this question!  It shows how <a href="http://bit.ly/2Bo7Dad"target="_blank">Experimental Design (Design of Experiments, DOE) addresses critical gaps.</a> Have us help you use DOE to improve your Innovative accomplishments.
+        <p>DATA TRANSFORMATIONS
+        <br>Do you ever have a test that does not make sense? Sometimes it can be caused by "bad data." But what if we know it is valid data? How do we prove things are working properly? A useful tool for improving understanding is data transformations. Several options are available. Experience helps know what to use. <a href="http://bit.ly/1FgUsc2"target="_blank">This video </a> gives an overview of how we do it. Do not give up. Give us a call for help instead.
 
-        <p>VALUABLE TRAINING COMPONENTS - EVALUATE
-        <br>The next core area is Evaluate. Everything else is pointless unless a person interprets results to gain insights. It is a blended evaluation of the situation. <a href="http://bit.ly/13v1rWG"target="_blank">Alternatives are explored</a> such as optimization and robust design, for better and faster decisions. This what we are all trying to do. While experience helps overall capability, guidelines are provided to assist everyone to be a better decision maker.
+        <p>VALUABLE TRAINING COMPONENTS - CREATE
+        <br>The next core area to discuss with a training program is "Create." What do you want to create in training? You can ultimately create robust designs for products and processes. You also create deeper understanding of the science behind the learning. During training you create improved project and test plans. Small group discussions create a common language and positive team interactions on the topic covered. This comfort immediately translates to "normal" workplace conversations during meetings and other interactions.
 
-        <p>FAILURE MODES AND EFFECTS ANALYSIS
-        <br>Failure Modes and Effects Analysis (FMEA) has become a popular tool in a wide variety of industries. The objective is to find priorities and assign appropriate resources. It is important to recognize that we apply FMEA to a broad range of application areas. It can be generated for design concepts, for detailed designs and for manufacturing processes. It should also <a href="http://bit.ly/2y0F6XS"target="_blank">include impacts</a> on business requirements in addition to the customer/ user requirements. Avoid completing an FMEA just to meet a company requirement. Do it to help your project be successful. We can show you how.
-
+        <p>EQUIPMENT SETUP
+        <br>Companies have been purchasing capital equipment to automate production and remain competitive. Bloomberg has recently reported it is not paying off. How can we get the most out of this new equipment? How do we know if we are getting the most out of our existing equipment? The following video <a href="http://bit.ly/18Zy44n"target="_blank">provides examples</a> where we accomplished this for various applications. Also provided is a written <a href="http://bit.ly/15umlcu"target="_blank">case study</a> about several situations. Both items provide examples of common equipment challenges. We can help you achieve the gains needed with your equipment.
 
         <p><a href="<?php echo ${env} ?>newsletter_archive.php">Newsletter archive</a>
 
