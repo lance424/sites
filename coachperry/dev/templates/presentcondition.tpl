@@ -16,7 +16,12 @@
 
         <p>We also have a lot of "useless stats." Decent ideas and concepts, but they break down in implementation. Further, there are areas that are still completely broken. For example, individual defense player ranking. My research has shown that most evaluations are at the team level. This is a high level metric and is also impacted by who is on the court with you. Some basketball analysts have taken a deeper dive, but it requires a "PhD in Basketball" to perform the analysis, and it is still highly questionable.
 
+      <h1>Present Condition - The BA System</h1>
+        <p>The BA system is built the following way. As has been stated, Results (w/l) and outcomes do not capture what is important for games. However, this tends to be the limit of what systems are looking at. We need to expand to behaviors, which then can lead to outcomes. Sometimes the appropriate behaviors do not have the ideal outcome - but that should not cause a change to the behavior. Additionally, skills are what provide capability for behaviors. The BA System focuses on behaviors, and is being expanded to include skill level evaluation.
 
+        <p>High level metrics like +/- acknowledge the "network" interaction in the game of basketball. However it fails to distinguish differences between players. Other systems only look for individual metrics, ignoring the team aspect. The BA System uses both types of metrics as appropriate to get a balanced and complete view of each player.
+
+        <p>When looking at player evaluation, there are considerations that cannot be measured. An example of this is chemistry and leadership. However, I believe that some of it is included in some of the "team based" measurements included. Can one perform well without strong chemistry? Probably only for a short period of time. Thus for draft or recruiting purposes we recognize the need to include other aspects. A complete decision process is not shown here, but has been considered (and tested to a limited degree).
 
 </p>
 
