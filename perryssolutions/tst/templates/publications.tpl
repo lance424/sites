@@ -17,19 +17,19 @@
 
 
 <?php
-$pdflink_file = 'publications/Newsletter 5-18 - Perrys Solutions.pdf';
-$pdflink_desc = 'May 2018';
+$pdflink_file = 'publications/Newsletter 8-18 - Perrys Solutions.pdf';
+$pdflink_desc = 'August 2018';
 include($php_root_dir . 'templates/pdflink.tpl');
 ?>
 
-        <p>DATA TRANSFORMATIONS
-        <br>Do you ever have a test that does not make sense? Sometimes it can be caused by "bad data." But what if we know it is valid data? How do we prove things are working properly? A useful tool for improving understanding is data transformations. Several options are available. Experience helps know what to use. <a href="http://bit.ly/1FgUsc2"target="_blank">This video </a> gives an overview of how we do it. Do not give up. Give us a call for help instead.
+        <p>JMP V14 REVIEW
+        <br>What are the capabilities of JMP software for DOE? Fundamental DOE tools include: Factorials, CCD, Box Behnken, Optimal Designs and Mixtures. What is new? The Fraction of Design Space evaluation tool is now available, which is useful for RSM. Other tools include conjoint analysis and consumer choice designs. The approach for sample size calculation display is interesting. A few weaknesses: RSM center point quantity is low, new window generated for each step of process and <a href="http://bit.ly/126UFJt"target="_blank">residual analysis</a> is cumbersome (and unchanged for several versions). Do you need training on your software? Contact us to select from a topic menu to fit your needs.
 
-        <p>VALUABLE TRAINING COMPONENTS - CREATE
-        <br>The next core area to discuss with a training program is "Create." What do you want to create in training? You can ultimately create robust designs for products and processes. You also create deeper understanding of the science behind the learning. During training you create improved project and test plans. Small group discussions create a common language and positive team interactions on the topic covered. This comfort immediately translates to "normal" workplace conversations during meetings and other interactions.
+        <p>SEVEN SIMPLE TOOLS
+        <br>This new segment will introduce the 7 Simple Tools for Improvement. They are all important to address situations in problem solving and <a href="http://bit.ly/1qpBaYC"target="_blank">root cause analysis.</a> Similar to a play in basketball, it may look simple. However, an experienced coach can ensure you execute it properly and with maximum benefit. The 7 tools are: Flow Charts, Cause and Effect Diagrams, Check Sheets, Scatter Diagrams, Histograms, Pareto Charts, and Control Charts. Best to use them when it makes sense. 
 
-        <p>EQUIPMENT SETUP
-        <br>Companies have been purchasing capital equipment to automate production and remain competitive. Bloomberg has recently reported it is not paying off. How can we get the most out of this new equipment? How do we know if we are getting the most out of our existing equipment? The following video <a href="http://bit.ly/18Zy44n"target="_blank">provides examples</a> where we accomplished this for various applications. Also provided is a written <a href="http://bit.ly/15umlcu"target="_blank">case study</a> about several situations. Both items provide examples of common equipment challenges. We can help you achieve the gains needed with your equipment.
+        <p>ALIGNING DOE WITH FDA EXPECTATIONS
+        <br>Do you use risk based methods for characterization testing? Or to design your prototypes? Intelligent DOE process implementation can touch many aspects of FDA Design Controls. <a href="http://bit.ly/2J4ni32"target="_blank">This MDM presentation</a> provides the connection points to create a powerful development strategy. Call us to help you avoid surprises!
 
         <p><a href="<?php echo ${env} ?>newsletter_archive.php">Newsletter archive</a>
 

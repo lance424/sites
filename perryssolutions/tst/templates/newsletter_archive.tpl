@@ -11,6 +11,26 @@
 <!--object id="msword" width="100%" height="100%" classid="CLSID:00020906-0000-0000-C000-000000000046" data="<?php echo ${env} ?>publications/Newsletter 8-11.doc"></object-->
 
         <p>
+
+
+
+<?php
+$pdflink_file = 'publications/Newsletter 5-18 - Perrys Solutions.pdf';
+$pdflink_desc = 'May 2018';
+include($php_root_dir . 'templates/pdflink.tpl');
+?>
+
+        <p>DATA TRANSFORMATIONS
+        <br>Do you ever have a test that does not make sense? Sometimes it can be caused by "bad data." But what if we know it is valid data? How do we prove things are working properly? A useful tool for improving understanding is data transformations. Several options are available. Experience helps know what to use. <a href="http://bit.ly/1FgUsc2"target="_blank">This video </a> gives an overview of how we do it. Do not give up. Give us a call for help instead.
+
+        <p>VALUABLE TRAINING COMPONENTS - CREATE
+        <br>The next core area to discuss with a training program is "Create." What do you want to create in training? You can ultimately create robust designs for products and processes. You also create deeper understanding of the science behind the learning. During training you create improved project and test plans. Small group discussions create a common language and positive team interactions on the topic covered. This comfort immediately translates to "normal" workplace conversations during meetings and other interactions.
+
+        <p>EQUIPMENT SETUP
+        <br>Companies have been purchasing capital equipment to automate production and remain competitive. Bloomberg has recently reported it is not paying off. How can we get the most out of this new equipment? How do we know if we are getting the most out of our existing equipment? The following video <a href="http://bit.ly/18Zy44n"target="_blank">provides examples</a> where we accomplished this for various applications. Also provided is a written <a href="http://bit.ly/15umlcu"target="_blank">case study</a> about several situations. Both items provide examples of common equipment challenges. We can help you achieve the gains needed with your equipment.
+
+
+        <p>
 <?php
 $pdflink_file = 'publications/Newsletter 2-18 - Perrys Solutions.pdf';
 $pdflink_desc = 'February 2018';
