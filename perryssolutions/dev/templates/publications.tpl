@@ -17,24 +17,33 @@
 
 
 <?php
-$pdflink_file = 'publications/Newsletter 5-17 - Perrys Solutions.pdf';
-$pdflink_desc = 'May 2017';
+$pdflink_file = 'publications/Newsletter 8-18 - Perrys Solutions.pdf';
+$pdflink_desc = 'August 2018';
 include($php_root_dir . 'templates/pdflink.tpl');
 ?>
 
-        <p>NON-NORMAL DATA
-        <br>Many practical situations experience what is called "non-normal" data. Practitioners dislike this because the tools to handle it are more complex and less understood by others. There are real and false causes of non-normal data, so we need to be confident in our determination. Non-normal tools tend to be less powerful than the standard tools, so care needs to be used to select the most powerful tool.
+        <p>JMP V14 REVIEW
+        <br>What are the capabilities of JMP software for DOE? Fundamental DOE tools include: Factorials, CCD, Box Behnken, Optimal Designs and Mixtures. What is new? The Fraction of Design Space evaluation tool is now available, which is useful for RSM. Other tools include conjoint analysis and consumer choice designs. The approach for sample size calculation display is interesting. A few weaknesses: RSM center point quantity is low, new window generated for each step of process and <a href="http://bit.ly/126UFJt"target="_blank">residual analysis</a> is cumbersome (and unchanged for several versions). Do you need training on your software? Contact us to select from a topic menu to fit your needs.
 
-        <p>VALUABLE TRAINING COMPONENTS
-        <br>The next core area is "Remember." There are 3 schools of thought for DOE - Western Method, Taguchi and Shainin. Each has a strength for application with Box's tools being the most widely applicable. Remember the <a href="http://bit.ly/14HgKSz"target="_blank">definition of DOE</a>: A tool to assist in the process of understanding a system.  And finally, DOE can generate predictive innovations. DOE is often used to resolve conflicts, but early use can help avoid major schedule delays.
+        <p>SEVEN SIMPLE TOOLS
+        <br>This new segment will introduce the 7 Simple Tools for Improvement. They are all important to address situations in problem solving and <a href="http://bit.ly/1qpBaYC"target="_blank">root cause analysis.</a> Similar to a play in basketball, it may look simple. However, an experienced coach can ensure you execute it properly and with maximum benefit. The 7 tools are: Flow Charts, Cause and Effect Diagrams, Check Sheets, Scatter Diagrams, Histograms, Pareto Charts, and Control Charts. Best to use them when it makes sense. 
 
-        <p>NO CATAPULT
-        <br>I recently wrote a white paper regarding why the catapult is a poor tool for DOE training. Unfortunately, it is a common tool. If you want to learn about DOE and use it, avoid the catapult. If you want to find out why it is so bad, <a href="http://bit.ly/2pmjnIz"target="_blank">read this paper.</a>
-
+        <p>ALIGNING DOE WITH FDA EXPECTATIONS
+        <br>Do you use risk based methods for characterization testing? Or to design your prototypes? Intelligent DOE process implementation can touch many aspects of FDA Design Controls. <a href="http://bit.ly/2J4ni32"target="_blank">This MDM presentation</a> provides the connection points to create a powerful development strategy. Call us to help you avoid surprises!
 
         <p><a href="<?php echo ${env} ?>newsletter_archive.php">Newsletter archive</a>
 
         <h2>Projects</h2>
+        <p>
+<?php
+$pdflink_file = 'publications/Aligning Design Of Experiments - MDM 2017 - Perrys Solutions.pdf';
+$pdflink_desc = 'Aligning DOE with FDA Expectations';
+include($php_root_dir . 'templates/pdflink.tpl');
+?>
+ (2017 Medical Design and Manufacturing Conference)
+
+        <p>
+
 <?php
 $pdflink_file = 'publications/Design DOE Case Study - Cooling - Perrys Solutions.pdf';
 $pdflink_desc = 'Design DOE Case Study - cooling';
@@ -61,6 +70,14 @@ $pdflink_desc = 'DOE In Industrial Testing';
 include($php_root_dir . 'templates/pdflink.tpl');
 ?>
  (2009 White Paper)
+
+        <p>
+<?php
+$pdflink_file = 'publications/Product Understanding - MN Reliability Consortium 2017 - Perrys Solutions.pdf';
+$pdflink_desc = 'Product Understanding';
+include($php_root_dir . 'templates/pdflink.tpl');
+?>
+ (2017 Reliability Consortium)
 
         <p>
 
@@ -216,6 +233,15 @@ include($php_root_dir . 'templates/pdflink.tpl');
 
         <h2>Training</h2>
 <?php
+$pdflink_file = 'publications/Experimental Design in Systematic Innovation - Perrys Solutions.pdf';
+$pdflink_desc = 'Experimental Design in Systematic Innovation';
+include($php_root_dir . 'templates/pdflink.tpl');
+?>
+(2017 Product Camp)
+
+        <p>
+
+<?php
 $pdflink_file = 'publications/DOE Training Case Study - Perrys Solutions.pdf';
 $pdflink_desc = 'Training Case Study - DOE';
 include($php_root_dir . 'templates/pdflink.tpl');
@@ -317,6 +343,9 @@ include($php_root_dir . 'templates/pdflink.tpl');
         <p><a href="http://archive.plasticsbusinessmag.com/stories/article.asp?ID=127#.V1gCg-SjBqh"target="_blank">DOE Brings Benefits to Process Design</a> (Plastics Business, Fall 2012)
         <p>
 
+        <p><a href="https://www.protolabs.com/resources/blog/service-bureau-or-broker-production-supplier-or-in-house-shop-selecting-a-manufacturing-source/"target="_blank">Manufacturer Source Selection Interview</a> (Protolabs Blog, 2017)
+        <p>
+
         <p><a href="http://www.bluetoad.com/publication/?i=135315&p=42"target="_blank">Trend Analysis to Acquire Knowledge and Increased Volumes</a> (Plastics Decorating, Fall 2012)
 
 
@@ -327,9 +356,14 @@ include($php_root_dir . 'templates/pdflink.tpl');
         <p><a href="http://www.plasticsdecorating.com/stories/050815/value-qfd-product-development.shtml#.VZmTofmJXCY"target="_blank">The Value of Quality Function Deployment in New Product Development</a> (Plastics Decorating, Spring 2015)
         <p>
 
-        <p><a href="http://www.bluetoad.com/publication/?m=9274&l=1#{%22issue_id%22:382075,%22page%22:26}"target="_blank">Learning Approach to Equipment Set-up</a> (Plastics Decorating, Winter 2017)
+
+
+        <p><a href="http://www.bluetoad.com/publication/?m=9274&l=1#{%22issue_id%22:382075,%22page%22:26}"target="_blank">Learning Approach to Equipment Set-up</a> (Plastics Decorating, Winter 2016)
 
         <p><a href="http://rube.asq.org/quality-progress/2015/08/problem-solving/creative-by-design.html?ID=127"target="_blank">Creative by Design</a> (American Society for Quality, August 2015)
+        <p>
+
+        <p><a href="http://www.mddionline.com/avoid-consequences-experiment-gone-wrong/"target="_blank">Avoid Consequences of an Experiment Gone Wrong</a> (MD+DI Magazine Blog, August 2017)
         <p>
 
 
@@ -340,27 +374,32 @@ include($php_root_dir . 'templates/pdflink.tpl');
 
         <iframe style="width:100%; max-width: 650px; height: auto; min-height: 200px;" src="http://accendoreliability.com/podcast/dtk/dtk-perry-parendo-consultant/?embed=true" frameborder="0"></iframe>
 
-                <p>11/14/2011, 4-5 pm, AM 1570, "How to Take Your Business to the Next Level"
+                <p>November 14, 2011, 4-5 pm, AM 1570, "How to Take Your Business to the Next Level"
 
 <?php
 $ytplayer_video = 'http://www.youtube.com/embed/Trgmvgisil8';
 include($php_root_dir . 'templates/ytplayer.tpl');
 ?>
 
+                <p>August 2017 <a href="https://accendoreliability.com/podcast/arw/practical-application-doe/#more-122000"target="_blank">Accendo Webinar</a> "Practical Application of Design Of Experiments - Full Slides and Webinar window available for free members on the Accendo website"
 
-                <p>5/19/2010, 4-5 pm, AM 1570, "Good Networking"
+        <iframe style="width:100%; max-width: 650px; height: auto; min-height: 200px;" src="https://accendoreliability.com/podcast/arw/practical-application-doe/?embed=true" frameborder="0"></iframe>
+
+
+                <p>December 16, 2009, 5-6 pm, AM 1570, "Coaching in Business Problem Solving"<p>
+
+<?php
+$ytplayer_video = 'http://www.youtube.com/embed/D7YzTVC8GDU';
+include($php_root_dir . 'templates/ytplayer.tpl');
+?>
+
+                <p>May 19, 2010, 4-5 pm, AM 1570, "Good Networking"
 
 <?php
 $ytplayer_video = 'http://www.youtube.com/embed/6jRMrg8e9Cw';
 include($php_root_dir . 'templates/ytplayer.tpl');
 ?>
 
-                <p>12/16/2009, 5-6 pm, AM 1570, "Coaching in Business Problem Solving"<p>
-
-<?php
-$ytplayer_video = 'http://www.youtube.com/embed/D7YzTVC8GDU';
-include($php_root_dir . 'templates/ytplayer.tpl');
-?>
 
               <h2>Videos and video briefs</h2>
 
@@ -368,10 +407,12 @@ include($php_root_dir . 'templates/ytplayer.tpl');
 
         <p>
 <?php
-$pdflink_file = 'publications/Project Execution-Perrys Solutions.pdf';
-$pdflink_desc = 'Project Execution';
+$pdflink_file = 'publications/Manufacturing Projects-Perrys Solutions.pdf';
+$pdflink_desc = 'Manufacturing Projects';
 include($php_root_dir . 'templates/pdflink.tpl');
-?> Are the projects executed valuable? Here are case studies at various phases of the process.
+?> How do we approach a manufacturing project - to address it permanently yet with limited scrap and downtime.
+
+
 
         <p>
 <?php
@@ -387,7 +428,12 @@ $pdflink_desc = 'Overcoming Development Challenges';
 include($php_root_dir . 'templates/pdflink.tpl');
 ?> When a project experiences a challenge, what do you do? What should you do? We explore this topic - a key to successful New Product Development.
 
-
+        <p>
+<?php
+$pdflink_file = 'publications/Project Execution-Perrys Solutions.pdf';
+$pdflink_desc = 'Project Execution';
+include($php_root_dir . 'templates/pdflink.tpl');
+?> Are the projects executed valuable? Here are case studies at various phases of the process.
 
         <p>
 <?php

@@ -10,6 +10,95 @@
 <!--iframe src="<?php echo ${env} ?>publications/Newsletter 8-11 - Perrys Solutions.pdf" name="mywindow" width="100%" height="100%" style="border: 1px">Sorry, your web browser does not support IFRAMES.</iframe-->
 <!--object id="msword" width="100%" height="100%" classid="CLSID:00020906-0000-0000-C000-000000000046" data="<?php echo ${env} ?>publications/Newsletter 8-11.doc"></object-->
 
+        <p>
+
+
+
+<?php
+$pdflink_file = 'publications/Newsletter 5-18 - Perrys Solutions.pdf';
+$pdflink_desc = 'May 2018';
+include($php_root_dir . 'templates/pdflink.tpl');
+?>
+
+        <p>DATA TRANSFORMATIONS
+        <br>Do you ever have a test that does not make sense? Sometimes it can be caused by "bad data." But what if we know it is valid data? How do we prove things are working properly? A useful tool for improving understanding is data transformations. Several options are available. Experience helps know what to use. <a href="http://bit.ly/1FgUsc2"target="_blank">This video </a> gives an overview of how we do it. Do not give up. Give us a call for help instead.
+
+        <p>VALUABLE TRAINING COMPONENTS - CREATE
+        <br>The next core area to discuss with a training program is "Create." What do you want to create in training? You can ultimately create robust designs for products and processes. You also create deeper understanding of the science behind the learning. During training you create improved project and test plans. Small group discussions create a common language and positive team interactions on the topic covered. This comfort immediately translates to "normal" workplace conversations during meetings and other interactions.
+
+        <p>EQUIPMENT SETUP
+        <br>Companies have been purchasing capital equipment to automate production and remain competitive. Bloomberg has recently reported it is not paying off. How can we get the most out of this new equipment? How do we know if we are getting the most out of our existing equipment? The following video <a href="http://bit.ly/18Zy44n"target="_blank">provides examples</a> where we accomplished this for various applications. Also provided is a written <a href="http://bit.ly/15umlcu"target="_blank">case study</a> about several situations. Both items provide examples of common equipment challenges. We can help you achieve the gains needed with your equipment.
+
+
+        <p>
+<?php
+$pdflink_file = 'publications/Newsletter 2-18 - Perrys Solutions.pdf';
+$pdflink_desc = 'February 2018';
+include($php_root_dir . 'templates/pdflink.tpl');
+?>
+
+        <p>EXPERIMENTAL DESIGN IN SYSTEMATIC INNOVATION
+        <br>In November we shared insights about Systematic Innovation at Product Camp. Our view is a broad look including business processes as well as idea generation and development. What gaps exist in this area? We used Systematic Innovation tools to answer this question!  It shows how <a href="http://bit.ly/2Bo7Dad"target="_blank">Experimental Design (Design of Experiments, DOE) addresses critical gaps.</a> Have us help you use DOE to improve your Innovative accomplishments.
+
+        <p>VALUABLE TRAINING COMPONENTS - EVALUATE
+        <br>The next core area is Evaluate. Everything else is pointless unless a person interprets results to gain insights. It is a blended evaluation of the situation. <a href="http://bit.ly/13v1rWG"target="_blank">Alternatives are explored</a> such as optimization and robust design, for better and faster decisions. This what we are all trying to do. While experience helps overall capability, guidelines are provided to assist everyone to be a better decision maker.
+
+        <p>FAILURE MODES AND EFFECTS ANALYSIS
+        <br>Failure Modes and Effects Analysis (FMEA) has become a popular tool in a wide variety of industries. The objective is to find priorities and assign appropriate resources. It is important to recognize that we apply FMEA to a broad range of application areas. It can be generated for design concepts, for detailed designs and for manufacturing processes. It should also <a href="http://bit.ly/2y0F6XS"target="_blank">include impacts</a> on business requirements in addition to the customer/ user requirements. Avoid completing an FMEA just to meet a company requirement. Do it to help your project be successful. We can show you how.
+
+
+
+        <p>
+<?php
+$pdflink_file = 'publications/Newsletter 11-17 - Perrys Solutions.pdf';
+$pdflink_desc = 'November 2017';
+include($php_root_dir . 'templates/pdflink.tpl');
+?>
+
+        <p>DESIGN OF EXPERIMENTS WEBINAR
+        <br>Design Of Experiments (DOE) is all about the set up and overall testing strategy. This link provides a one hour webinar with these <a href="http://bit.ly/2wn6nWq"target="_blank">basics of DOE.</a> If you want more so you can run basic experiments yourself, you can sign up for the self-paced course, which will be available soon. It does not require special software beyond Excel to start simple tests, with limited analysis. Contact us for more information or for help on your more complicated and important projects. Over 30 years of experience and hundreds of projects in both manufacturing and design applications support this content.
+
+        <p>VALUABLE TRAINING COMPONENTS - ANALYZE
+        <br>The next core area to discuss with a training program is Analyze. The ability to examine test data using key diagnostics and create an unbiased decision is critical for engineering performance. It is easy to do but overlooked too often. <a href="http://bit.ly/126UFJt"target="_blank">Smart and complete analysis</a> provides key learning points beyond the obvious "model building" desired from Design of Experiments. We provide an analysis Cheat Sheet with our DOE training. Our other classes provide similar tools to assist with retaining key points.
+
+        <p>AVOIDING CONSEQUENCES OF EXPERIMENTS GONE WRONG
+        <br>In the fall I created an article about experimentation for MD+DI magazine. This provides the basics of <a href="http://bit.ly/2A5VdEB"target="_blank">creating a successful experiment</a> with examples. The MDM talk on November 9 expanded on these thoughts to connect with specific FDA expectations. It is good solid engineering and new product development habits for any industry. Call us to avoid bad experiments, reduce scrap and finish projects on time.
+
+<p>
+<?php
+$pdflink_file = 'publications/Newsletter 8-17 - Perrys Solutions.pdf';
+$pdflink_desc = 'August 2017';
+include($php_root_dir . 'templates/pdflink.tpl');
+?>
+
+        <p>ALIGNING DOE WITH FDA TALK AT MDM
+        <br>I was asked to speak at MD&M about how to Align Design of Experiments (DOE) with FDA expectations. The talk will take place at the Minneapolis Convention Center on November 9. Smart validation allows for fast approval. DOE is essential for creating a design and process worthy of approval and market success.
+
+        <p>VALUABLE TRAINING COMPONENTS - APPLY
+        <br>The next core area to discuss with a training program is Apply. Doing text book exercises with clean data does not teach one how to apply it. How can we bridge the gap to actually making our jobs easier? To making our products and processes better? We cover how to set up a DOE matrix for execution. We also address the skills needed to solve root cause analysis issues.
+
+
+
+        <p>ROBUST DESIGN PODCAST
+        <br>The engineering knowledge source, Accendo Reliability, asked me to do a podcast regarding my insights on Robust Design. There is a huge benefit with only traditional DOE tools to achieve some Robust objectives. Going even further and using Monte Carlo analysis can provide even further performance improvements and cost reductions. <a href="http://bit.ly/2wsJlxO"target="_blank">Robust Design</a> is achievable.
+
+        <p>
+
+
+<?php
+$pdflink_file = 'publications/Newsletter 5-17 - Perrys Solutions.pdf';
+$pdflink_desc = 'May 2017';
+include($php_root_dir . 'templates/pdflink.tpl');
+?>
+
+        <p>NON-NORMAL DATA 
+        <br>Many practical situations experience what is called "non-normal" data. Practitioners dislike this because the tools to handle it are more complex and less understood by others. There are real and false causes of non-normal data, so we need to be confident in our determination. Non-normal tools tend to be less powerful than the standard tools, so care needs to be used to select the most powerful tool.
+
+        <p>VALUABLE TRAINING COMPONENTS
+        <br>The next core area is "Remember." There are 3 schools of thought for DOE - Western Method, Taguchi and Shainin. Each has a strength for application with Box's tools being the most widely applicable. Remember the <a href="http://bit.ly/14HgKSz"target="_blank">definition of DOE</a>: A tool to assist in the process of understanding a system.  And finally, DOE can generate predictive innovations. DOE is often used to resolve conflicts, but early use can help avoid major schedule delays.
+
+        <p>NO CATAPULT
+        <br>I recently wrote a white paper regarding why the catapult is a poor tool for DOE training. Unfortunately, it is a common tool. If you want to learn about DOE and use it, avoid the catapult. If you want to find out why it is so bad, <a href="http://bit.ly/2pmjnIz"target="_blank">read this paper.</a>
 
         <p>
 
@@ -174,7 +263,7 @@ include($php_root_dir . 'templates/pdflink.tpl');
         <br>Are we an easy company to do business with? And if not, what could we do to make it better for you. I would love to hear from you.
 
         <p>BEST OF 2014 - VIDEO ON YOUTUBE 
-        <br>Our most popular video in 2014 was "<a href="http://bit.ly/1bciKlr"target="_blank">"Robust Design"</a>." Companies desire to be robust, and apparently on a world-wide basis. Few seem to have tools to create it. Call us to help you make it a reality.
+        <br>Our most popular video in 2014 was "<a href="http://bit.ly/1bciKlr"target="_blank">Robust Design</a>." Companies desire to be robust, and apparently on a world-wide basis. Few seem to have tools to create it. Call us to help you make it a reality.
 
 
         <p>
