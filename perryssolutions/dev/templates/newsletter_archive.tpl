@@ -11,7 +11,23 @@
 <!--object id="msword" width="100%" height="100%" classid="CLSID:00020906-0000-0000-C000-000000000046" data="<?php echo ${env} ?>publications/Newsletter 8-11.doc"></object-->
 
         <p>
+<?php
+$pdflink_file = 'publications/Newsletter 8-18 - Perrys Solutions.pdf';
+$pdflink_desc = 'August 2018';
+include($php_root_dir . 'templates/pdflink.tpl');
+?>
 
+        <p>JMP V14 REVIEW
+        <br>What are the capabilities of JMP software for DOE? Fundamental DOE tools include: Factorials, CCD, Box Behnken, Optimal Designs and Mixtures. What is new? The Fraction of Design Space evaluation tool is now available, which is useful for RSM. Other tools include conjoint analysis and consumer choice designs. The approach for sample size calculation display is interesting. A few weaknesses: RSM center point quantity is low, new window generated for each step of process and <a href="http://bit.ly/126UFJt"target="_blank">residual analysis</a> is cumbersome (and unchanged for several versions). Do you need training on your software? Contact us to select from a topic menu to fit your needs.
+
+        <p>SEVEN SIMPLE TOOLS
+        <br>This new segment will introduce the 7 Simple Tools for Improvement. They are all important to address situations in problem solving and <a href="http://bit.ly/1qpBaYC"target="_blank">root cause analysis.</a> Similar to a play in basketball, it may look simple. However, an experienced coach can ensure you execute it properly and with maximum benefit. The 7 tools are: Flow Charts, Cause and Effect Diagrams, Check Sheets, Scatter Diagrams, Histograms, Pareto Charts, and Control Charts. Best to use them when it makes sense. 
+
+        <p>ALIGNING DOE WITH FDA EXPECTATIONS
+        <br>Do you use risk based methods for characterization testing? Or to design your prototypes? Intelligent DOE process implementation can touch many aspects of FDA Design Controls. <a href="http://bit.ly/2J4ni32"target="_blank">This MDM presentation</a> provides the connection points to create a powerful development strategy. Call us to help you avoid surprises!
+
+
+        <p>
 
 
 <?php
