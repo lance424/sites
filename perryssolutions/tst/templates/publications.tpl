@@ -17,19 +17,19 @@
 
 
 <?php
-$pdflink_file = 'publications/Newsletter 8-18 - Perrys Solutions.pdf';
-$pdflink_desc = 'August 2018';
+$pdflink_file = 'publications/Newsletter 11-18 - Perrys Solutions.pdf';
+$pdflink_desc = 'November 2018';
 include($php_root_dir . 'templates/pdflink.tpl');
 ?>
 
-        <p>JMP V14 REVIEW
-        <br>What are the capabilities of JMP software for DOE? Fundamental DOE tools include: Factorials, CCD, Box Behnken, Optimal Designs and Mixtures. What is new? The Fraction of Design Space evaluation tool is now available, which is useful for RSM. Other tools include conjoint analysis and consumer choice designs. The approach for sample size calculation display is interesting. A few weaknesses: RSM center point quantity is low, new window generated for each step of process and <a href="http://bit.ly/126UFJt"target="_blank">residual analysis</a> is cumbersome (and unchanged for several versions). Do you need training on your software? Contact us to select from a topic menu to fit your needs.
+        <p>PRODUCT DEVELOPMENT INTERVIEW WITH MDDI
+        <br>MDDI recently asked to interview me <a href="http://bit.ly/2CKEpbn"target="_blank">about Product Development.</a> This opportunity allowed me a chance to talk about the overall process from risk assessment to the use of DOE. How can an organization be efficient but also avoid delays in development? Leveraging hidden replication allows us to do more learning with less test expense compared to other methods. The same principles apply beyond hardware - it can also help with manufacturing processes, software and marketing applications.
 
-        <p>SEVEN SIMPLE TOOLS
-        <br>This new segment will introduce the 7 Simple Tools for Improvement. They are all important to address situations in problem solving and <a href="http://bit.ly/1qpBaYC"target="_blank">root cause analysis.</a> Similar to a play in basketball, it may look simple. However, an experienced coach can ensure you execute it properly and with maximum benefit. The 7 tools are: Flow Charts, Cause and Effect Diagrams, Check Sheets, Scatter Diagrams, Histograms, Pareto Charts, and Control Charts. Best to use them when it makes sense. 
+        <p>SEVEN SIMPLE TOOLS - FLOW CHARTS
+        <br>The Flow Chart is a tool needed early on with a project. It provides a common picture of the existing process and sequence of events. It also helps show the relevant connections between inputs and outputs (sounds more obvious than it is). In addition, it aids in evaluating the scope and thus should be high level. While it can be nice to have an ideal flow chart, it is vital to have the "real flow chart" when trying to problem solve.
 
-        <p>ALIGNING DOE WITH FDA EXPECTATIONS
-        <br>Do you use risk based methods for characterization testing? Or to design your prototypes? Intelligent DOE process implementation can touch many aspects of FDA Design Controls. <a href="http://bit.ly/2J4ni32"target="_blank">This MDM presentation</a> provides the connection points to create a powerful development strategy. Call us to help you avoid surprises!
+        <p>USING A3s
+        <br>You probably have heard about A3 documents before. It is an approach to collect knowledge that is credited to the Japanese. A3 simply refers to the size of paper used. However, this is important to concisely fit knowledge within the single page. I have long believed in the single sheet. To me, people may read the cover, but are far less likely to turn the page. Have you used A3s before? If so, we are interested in hearing about your experiences. Call us to help you <a href="http://bit.ly/1KSZA3A"target="_blank">generate A3 insights!</a>
 
         <p><a href="<?php echo ${env} ?>newsletter_archive.php">Newsletter archive</a>
 
@@ -338,6 +338,9 @@ $pdflink_desc = 'Engineering Top Performance';
 include($php_root_dir . 'templates/pdflink.tpl');
 ?>
  (2011 Minneapolis Star Tribune)
+        <p>
+
+        <p><a href="https://www.mddionline.com/take-device-performance-next-level/"target="_blank">Take Device Performance to the Next Level</a> (MD+DI Magazine Interview, September 2018)
         <p>
 
         <p><a href="http://archive.plasticsbusinessmag.com/stories/article.asp?ID=127#.V1gCg-SjBqh"target="_blank">DOE Brings Benefits to Process Design</a> (Plastics Business, Fall 2012)
